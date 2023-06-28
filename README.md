@@ -2,9 +2,10 @@
 
 ### 👩🏽‍💻 I'm using this account to host my main development projects. 
 
+### 📊 GitHub Stats:
 ![MostraLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Lima&theme=blue-green)
 
-### 🛠️ ⚙️ Skills
+### 🛠️ ⚙️ Tech Stack
 
 <div>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
