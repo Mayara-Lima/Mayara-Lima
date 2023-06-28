@@ -5,7 +5,7 @@
 ### 📊 GitHub Stats:
 ![MostraLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Lima&theme=blue-green)
 
-### 🛠️ ⚙️ Tech Stack
+### 🛠️ ⚙️ Tech Stack:
 
 <div>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 
 
-### 💼🗣️ Contacts
+### 💼🗣️ Contacts:
 
 <div>
   <a href="https://www.linkedin.com/in/mayara-lima-86b642222/" target="_blank">
