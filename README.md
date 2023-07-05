@@ -3,7 +3,6 @@
 ### 👩🏽‍💻 I'm using this account to host my main development projects. 
 
 ### 📊 GitHub Stats:
-![Status](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 ![MostraLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Lima&theme=blue-green)
 
 ### 🛠️ ⚙️ Tech Stack:
