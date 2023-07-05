@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
 
-# Hello, I'm Mayara Lima. ✋
-
-### 👩🏽‍💻 I'm using this account to host my main development projects. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1size=38&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Mayara+Lima.;I'm+using+this+account+to+host+my+main+development+projects.;Be+Welcome.+😀)](https://git.io/typing-svg)
 
 ### 📊 GitHub Stats:
 ![MostraLinguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-Lima&theme=blue-green)
@@ -44,4 +42,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
