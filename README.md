@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=header"/>
+
 # Hello, I'm Mayara Lima. ✋
 
 ### 👩🏽‍💻 I'm using this account to host my main development projects. 
@@ -42,3 +44,4 @@
   </a>
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
